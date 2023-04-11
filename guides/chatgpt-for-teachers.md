@@ -7,7 +7,7 @@ So much has been said recently about Generative AI tools such as ChatGPT, and th
 Let's start by defining what ChatGPT is and is not:
 
 - ChatGPT is a natural language processing tool that can generate human-like text, including answers to questions, longer texts such as essays, and even complete conversations.
-- ChatGPT is NOT a sentient or conscious entity. It is also NOT a replacement for human expertise or judgement, and it ma generate inaccurate or inappropriate content if not used correctly.
+- ChatGPT is NOT a sentient or conscious entity. It is also NOT a replacement for human expertise or judgement, and it may generate inaccurate or inappropriate content if not used correctly.
 
 ## Ok, so how does it work?
 
