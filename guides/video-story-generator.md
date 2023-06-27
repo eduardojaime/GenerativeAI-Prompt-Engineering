@@ -52,3 +52,11 @@ Note: <NOTE>
 
 <TAGS>
 ```
+
+# Step 4 Generate a Title
+
+Prompt - Generate Title Options
+
+```
+Recommend 10 interesting titles in <LANGUAGE> that include '| <SERIES NAME>' in the title. Follow this format: '<QUESTION?> (<INTERESTING SENTENCE>) | <SERIES NAME>'
+```
