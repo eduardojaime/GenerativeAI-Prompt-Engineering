@@ -21,7 +21,7 @@ In the first column, place the story paragraph.
 In the second column, generate a prompt to be used in an AI image generation tool called Stable Diffusion.
 For the story paragraph, don't shorten the story, you can make a longer paragraph to include the original version.
 For the image prompt use the following format: <describe the subject of the image, what they are wearing, how many they are>, <describe the background of the scene>, <specify the time of day>
-For the image prompt use simple sentences and do not add unnecessary details like feelings.
+For the image prompt use simple sentences in English and do not add unnecessary details like feelings.
 Keep the table size as 12 rows plus headers.
 ```
 
