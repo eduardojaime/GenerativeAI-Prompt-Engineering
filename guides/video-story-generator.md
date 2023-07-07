@@ -30,7 +30,7 @@ Keep the table size as 12 rows plus headers.
 Prompt
 
 ```
-Give me the <LANGUAGE> version of the table
+Give me the <LANGUAGE> version of the table, replace the image prompt sentence with NA
 ```
 
 # Step 3 Video Metadata in Specific Language
